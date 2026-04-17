@@ -16,6 +16,11 @@
         "backgroundColor": "#0a0d0a"
       },
       "package": "com.elitetraining.app"
-    }
+    },
+    
+      "extra": {
+  "eas": {
+    "projectId": "f0eef0c6-c779-4829-90b1-451aecfcc1cc"
+  }
   }
 }
